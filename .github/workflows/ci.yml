@@ -93,4 +93,4 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: us-central1-docker.pkg.dev/cs-1660-451204/assignment2/fastapi-server:v2
+          tags: us-central1-docker.pkg.dev/cs-1660-451204/my-repo/fastapi-server:v2
